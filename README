@@ -1,0 +1,4 @@
+Download genomes from PATRIC and search for a list of sRNAs using BLAST. Then the pipeline print files that can be loaded to iTOL
+run with:
+```
+nextflow asafpr/sRNA_finder --genomes --sequences --tree --outdir results

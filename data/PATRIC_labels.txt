@@ -1,0 +1,999 @@
+LABELS
+SEPARATOR COMMA
+DATA
+1001989.3,Escherichia coli PCN033
+1002364.3,Hafnia alvei ATCC 51873
+1002368.3,Yokenella regensburgei ATCC 43003
+1004153.3,Escherichia coli AA86
+1005043.3,Candidatus Regiella insecticola R5.15
+1005057.4,Buchnera aphidicola str. Ua (Uroleucon ambrosiae)
+1005090.4,Buchnera aphidicola str. Ak (Acyrthosiphon kondoi)
+1005441.3,Escherichia coli 0.1304
+1005442.3,Escherichia coli 0.1288
+1005463.3,Escherichia coli 8.0416
+1005469.3,Escherichia coli 10.0821
+1005470.3,Escherichia coli FDA504
+1005471.3,Escherichia coli FDA505
+1005472.3,Escherichia coli FDA507
+1005473.3,Escherichia coli FDA517
+1005474.3,Escherichia coli FDA506
+1005475.3,Escherichia coli FRIK1996
+1005476.3,Escherichia coli FRIK1985
+1005477.3,Escherichia coli FRIK1999
+1005478.3,Escherichia coli FRIK1990
+1005479.3,Escherichia coli FRIK2001
+1005480.3,Escherichia coli FRIK1997
+1005481.3,Escherichia coli 93-001
+1005482.3,Escherichia coli FRIK523
+1005483.3,Escherichia coli FRIK920
+1005484.3,Escherichia coli NE037
+1005485.3,Escherichia coli NE1487
+1005486.3,Escherichia coli NE098
+1005488.3,Escherichia coli PA3
+1005489.3,Escherichia coli PA4
+1005490.3,Escherichia coli PA5
+1005491.3,Escherichia coli PA7
+1005493.3,Escherichia coli PA9
+1005494.3,Escherichia coli PA10
+1005495.3,Escherichia coli PA14
+1005496.3,Escherichia coli PA15
+1005497.3,Escherichia coli PA22
+1005498.3,Escherichia coli PA23
+1005499.3,Escherichia coli PA24
+1005500.3,Escherichia coli PA25
+1005501.3,Escherichia coli PA28
+1005502.3,Escherichia coli PA31
+1005503.3,Escherichia coli PA32
+1005504.3,Escherichia coli PA33
+1005505.3,Escherichia coli PA34
+1005506.3,Escherichia coli PA38
+1005507.3,Escherichia coli PA39
+1005508.3,Escherichia coli PA40
+1005509.3,Escherichia coli PA41
+1005510.3,Escherichia coli PA42
+1005511.3,Escherichia coli PA45
+1005515.3,Escherichia coli TW06591
+1005516.3,Escherichia coli TW07945
+1005517.3,Escherichia coli TW10246
+1005518.3,Escherichia coli TW11039
+1005519.3,Escherichia coli TW09098
+1005520.3,Escherichia coli TW09109
+1005521.3,Escherichia coli TW09195
+1005522.3,Escherichia coli TW10119
+1005523.3,Escherichia coli EC4203
+1005524.3,Escherichia coli EC4196
+1005525.3,Escherichia coli TW14313
+1005526.3,Escherichia coli TW14301
+1005527.3,Escherichia coli EC4421
+1005528.3,Escherichia coli EC4422
+1005529.3,Escherichia coli EC4013
+1005530.3,Escherichia coli EC4402
+1005531.3,Escherichia coli EC4439
+1005532.3,Escherichia coli EC4436
+1005533.3,Escherichia coli EC4437
+1005534.3,Escherichia coli EC4448
+1005535.3,Escherichia coli EC1738
+1005536.3,Escherichia coli EC1734
+1005537.3,Escherichia coli EC1735
+1005538.3,Escherichia coli EC1736
+1005539.3,Escherichia coli EC1737
+1005540.3,Escherichia coli EC1845
+1005541.3,Escherichia coli EC1846
+1005542.3,Escherichia coli EC1847
+1005543.3,Escherichia coli EC1848
+1005544.3,Escherichia coli EC1849
+1005545.3,Escherichia coli EC1850
+1005546.3,Escherichia coli EC1856
+1005547.3,Escherichia coli EC1862
+1005548.3,Escherichia coli EC1863
+1005549.3,Escherichia coli EC1864
+1005550.3,Escherichia coli EC1865
+1005551.3,Escherichia coli EC1866
+1005553.3,Escherichia coli EC1869
+1005554.3,Escherichia coli EC1870
+1005555.3,Escherichia coli TT12B
+1005558.3,Escherichia coli 5905
+1005559.3,Escherichia coli CB7326
+1005561.3,Escherichia coli 5412
+1005562.3,Escherichia coli TW15901
+1005563.3,Escherichia coli ARS4.2123
+1005564.3,Escherichia coli TW00353
+1005565.3,Escherichia coli 3006
+1005566.3,Escherichia coli 07798
+1005567.3,Escherichia coli N1
+1006551.4,Klebsiella oxytoca KCTC 1686
+1027360.4,Edwardsiella ictaluri ATCC 33202
+1027364.3,Edwardsiella tarda DT
+1028307.3,Enterobacter aerogenes KCTC 2190
+1033813.3,Escherichia coli NA114
+1035377.4,Yersinia pestis A1122
+1037890.3,Klebsiella pneumoniae JH1
+1037908.3,Klebsiella pneumoniae 1162281
+1038844.18,Escherichia coli O104:H4 str. TY-2482
+1038927.5,Escherichia coli O104:H4 str. GOS2
+1038927.6,Escherichia coli O104:H4 str. H112180282
+1038927.7,Escherichia coli O104:H4 str. H112180283
+1038927.8,Escherichia coli O104:H4 str. H112180540
+1038927.9,Escherichia coli O104:H4 str. C227-11
+1040638.5,Escherichia coli O104:H4 str. LB226692
+1042803.5,Escherichia coli O104:H4 str. 01-09591
+1042804.3,Escherichia coli O104:H4 str. H112180280
+1045856.3,Enterobacter cloacae EcWSU1
+1048254.3,Escherichia coli O104:H4 str. C227-11 (Broad)
+1048256.3,Escherichia coli O104:H4 str. C236-11
+1048265.3,Escherichia coli O104:H4 str. 04-8351
+1048266.3,Escherichia coli O104:H4 str. 09-7901
+1048334.3,Escherichia coli O104:H4 str. 11-3677
+1048765.4,Escherichia coli O104:H4 str. H112180541
+1049565.4,Klebsiella pneumoniae KCTC 2242
+1050617.5,Escherichia coli UMNF18
+1068608.3,Escherichia coli XH140A
+1068614.3,Escherichia coli O104:H4 str. 11-4404
+1068615.3,Escherichia coli O104:H4 str. 11-4522
+1068616.3,Escherichia coli O104:H4 str. 11-4623
+1068617.3,Escherichia coli O104:H4 str. 11-4632 C1
+1068618.3,Escherichia coli O104:H4 str. 11-4632 C2
+1068619.3,Escherichia coli O104:H4 str. 11-4632 C3
+1068620.3,Escherichia coli O104:H4 str. 11-4632 C4
+1068621.3,Escherichia coli O104:H4 str. 11-4632 C5
+1068622.3,Escherichia coli O104:H4 str. Ec11-5538
+1068623.3,Escherichia coli O104:H4 str. Ec11-5536
+1068624.3,Escherichia coli O104:H4 str. Ec11-5537
+1069495.4,Escherichia coli XH001
+1071969.3,Yersinia enterocolitica subsp. palearctica PhRBD_Ye1
+1072459.4,Escherichia coli O7:K1 str. CE10
+1074486.3,Klebsiella pneumoniae 1191100241
+1078029.12,Escherichia coli O113:H21 str. CL-3
+1078030.10,Escherichia coli O91:H21 str. B2F1
+1078031.3,Escherichia coli O121:H19 str. MT#2
+1078033.4,Escherichia coli O45:H2 str. 03-EN-705
+1078035.3,Escherichia coli O145:H28 str. 4865/96
+107806.10,Buchnera aphidicola str. APS (Acyrthosiphon pisum)
+1081093.3,Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078
+1084226.3,Yersinia pestis biovar Orientalis str. BA200901799
+1084227.3,Yersinia pestis biovar Orientalis str. AS200901539
+1084228.3,Yersinia pestis biovar Orientalis str. AS200901156
+1084229.3,Yersinia pestis biovar Orientalis str. BA200901703
+1084230.3,Yersinia pestis biovar Orientalis str. BA200901990
+1084231.3,Yersinia pestis biovar Orientalis str. BA200902009
+1084232.3,Yersinia pestis biovar Orientalis str. AS200902147
+1084233.3,Yersinia pestis biovar Orientalis str. AS200901434
+1084234.3,Yersinia pestis biovar Orientalis str. AS200901509
+1087440.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH1
+1087441.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH2
+1087443.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH4
+1087444.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH5
+1087445.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH6
+1089445.3,Escherichia coli AI27
+1090926.6,Escherichia coli W26
+1090945.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 50-3079
+1094167.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH7
+1094168.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH8
+1094169.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH9
+1094170.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH10
+1094171.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH11
+1095774.3,Pantoea ananatis PA13
+1101440.4,Escherichia coli O103:H25 str. NIPH-11060424
+1104326.3,Enterobacter cloacae subsp. dissolvens SDM
+1110694.4,Pantoea agglomerans IG1
+1115512.3,Escherichia hermannii NBRC 105704
+1116476.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 58-6482
+1124937.3,Salmonella enterica subsp. enterica serovar Heidelberg str. 41579
+1124941.3,Salmonella enterica subsp. enterica serovar Heidelberg str. 41563
+1124942.3,Salmonella enterica subsp. enterica serovar Heidelberg str. 41566
+1124991.3,Morganella morganii subsp. morganii KT
+1125630.4,Klebsiella pneumoniae subsp. pneumoniae HS11286
+1125693.3,Proteus mirabilis WGLW4
+1125694.3,Proteus mirabilis WGLW6
+1126899.3,Escherichia coli C354_03B
+1128946.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH12
+1128948.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH14
+1128950.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH16
+1128951.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH17
+1128952.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH18
+1128953.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH19
+1128954.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH20
+1128959.3,Salmonella enterica subsp. enterica serovar Heidelberg str. 41573
+1128963.3,Salmonella enterica subsp. enterica serovar Heidelberg str. 41565
+1133853.3,Escherichia coli O104:H4 str. 2009EL-2071
+1134455.3,Klebsiella oxytoca 11492-1
+1134782.3,Escherichia coli O104:H4 str. 2009EL-2050
+1136217.3,Escherichia coli O104:H4 str. ON2010
+1136218.3,Escherichia coli O104:H4 str. ON2011
+1137135.3,Escherichia coli O157:H43 str. T22
+1138308.5,Cronobacter sakazakii ES15
+1141101.3,Salmonella enterica subsp. enterica serovar Typhimurium str. ST1660/06
+1144302.3,Escherichia coli SCI-07
+1144303.3,Escherichia coli J53
+1144320.3,Pantoea sp. GM01
+1144341.3,Pantoea sp. YR343
+1147753.3,Salmonella enterica subsp. enterica serovar Senftenberg str. SS209
+1151116.3,Rahnella aquatilis HX2
+1156917.3,Salmonella enterica subsp. enterica serovar Typhi str. BL196
+1157951.4,Providencia stuartii MRSN 2154
+1160717.4,Salmonella enterica subsp. enterica serovar Heidelberg str. B182
+1162294.5,Serratia marcescens LCT-SM213
+1162296.3,Klebsiella pneumoniae subsp. pneumoniae DSM 30104
+1162297.3,Klebsiella pneumoniae subsp. pneumoniae LCT-KP214
+1163386.3,Escherichia coli LCT-EC106
+1163391.3,Escherichia coli O111:H11 str. CVM9545
+1163738.3,Escherichia coli O26:H11 str. CVM9952
+1163751.3,Candidatus Hamiltonella defensa MED (Bemisia tabaci)
+1165939.3,Escherichia coli O111:H11 str. CVM9455
+1165940.3,Escherichia coli O103:H25 str. CVM9340
+1165941.3,Escherichia coli O103:H2 str. CVM9450
+1165942.3,Escherichia coli O111:H8 str. CVM9602
+1165943.3,Escherichia coli O111:H8 str. CVM9574
+1165944.3,Escherichia coli O111:H8 str. CVM9634
+1165945.3,Escherichia coli O111:H8 str. CVM9570
+1165946.3,Escherichia coli O111:H11 str. CVM9534
+1165947.3,Escherichia coli O111:H11 str. CVM9553
+1165949.3,Escherichia coli O26:H11 str. CVM9942
+1165950.3,Escherichia coli O26:H11 str. CVM10021
+1165951.3,Escherichia coli O26:H11 str. CVM10026
+1165952.3,Escherichia coli O26:H11 str. CVM10030
+1165953.3,Escherichia coli O26:H11 str. CVM10224
+1167694.3,Escherichia coli O32:H37 str. P4
+1168062.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH21
+1168063.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH22
+1168064.3,Klebsiella pneumoniae subsp. pneumoniae KPNIH23
+1169660.3,Salmonella enterica subsp. enterica serovar Typhi str. UJ308A
+1169661.3,Salmonella enterica subsp. enterica serovar Typhi str. UJ816A
+1169663.3,Escherichia coli NCCP15647
+1169664.4,Escherichia coli AD30
+1169862.3,Escherichia coli NCCP15658
+1169863.3,Escherichia coli NCCP15657
+1173691.3,Citrobacter sp. A1
+1175299.4,Dickeya zeae ZJU1202
+1175631.4,Pectobacterium wasabiae CFBP 3304
+1176487.3,Salmonella enterica subsp. enterica serovar Typhi str. ST0208
+1176488.3,Salmonella enterica subsp. enterica serovar Typhi str. CR0044
+1177153.3,Klebsiella pneumoniae subsp. pneumoniae LZ
+1177180.3,Enterobacter radicincitans DSM 16656
+1177927.3,Enterobacter cloacae subsp. cloacae GS1
+1179780.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 2010-1237
+1182164.3,Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00322
+1182167.3,Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00325
+1182168.3,Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00326
+1182170.3,Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00328
+1182757.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 2010K-0669
+1182758.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 2010K-2599
+1182759.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 08-0047
+1182760.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 08-0128
+1182761.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 08-0627
+1191061.3,Klebsiella oxytoca E718
+1192853.3,Salmonella enterica subsp. enterica serovar Typhi str. CR0063
+1193292.6,Klebsiella pneumoniae subsp. pneumoniae 1084
+1194086.3,Yersinia enterocolitica subsp. enterocolitica WA-314
+1194970.3,Yersinia pestis 2501
+1199245.3,secondary endosymbiont of Ctenarytaina eucalypti
+1202448.3,Enterobacter sp. Ag1
+1203544.3,Klebsiella pneumoniae subsp. pneumoniae WGLW1
+1203545.3,Klebsiella pneumoniae subsp. pneumoniae WGLW2
+1203547.3,Klebsiella pneumoniae subsp. pneumoniae WGLW5
+1206108.3,Escherichia coli J96
+1211025.3,Enterobacter cloacae subsp. cloacae ENHKU01
+1212554.4,Salmonella enterica subsp. enterica serovar Bareilly str. 06-0784
+1212557.4,Salmonella enterica subsp. enterica serovar Hartford str. 06-0676
+1212559.4,Salmonella enterica subsp. enterica serovar Hadar str. 2011K-0112
+1212561.4,Salmonella enterica subsp. enterica serovar Mississippi str. 2010K-1406
+1216470.3,Enterobacter sp. SST3
+1218513.3,Serratia marcescens W2.3
+1218933.3,Pectobacterium carotovorum subsp. carotovorum PCC21
+1226115.3,Klebsiella pneumoniae subsp. pneumoniae KpQ3
+1230480.3,Escherichia coli EC302/04
+1232392.6,Klebsiella pneumoniae subsp. pneumoniae KpO3210
+1235834.3,Enterobacter cloacae subsp. dissolvens SP1
+1336205.3,Escherichia coli O127:H6 str. E2348/69 substr. CVDNalr
+134287.3,secondary endosymbiont of Heteropsylla cubana
+1446553.3,Escherichia coli O121:H19 str. 06-3003
+155864.43,Escherichia coli O157:H7 str. EDL933
+177416.18,Francisella tularensis subsp. tularensis SCHU S4
+190486.7,Xanthomonas axonopodis pv. citri str. 306
+198214.7,Shigella flexneri 2a str. 301
+198215.6,Shigella flexneri 2a str. 2457T
+198215.9,Shigella flexneri 2a str. 2457T (Prj:48255)
+198628.6,Dickeya dadantii 3937
+198804.5,Buchnera aphidicola str. Sg (Schizaphis graminum)
+199310.4,Escherichia coli CFT073
+203907.6,Candidatus Blochmannia floridanus
+208964.12,Pseudomonas aeruginosa PAO1
+209261.6,Salmonella enterica subsp. enterica serovar Typhi str. Ty2
+211586.12,Shewanella oneidensis MR-1
+214092.21,Yersinia pestis CO92
+215689.3,Erwinia sp. Ejp617
+216597.6,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+218491.5,Pectobacterium atrosepticum SCRI1043
+218493.5,Salmonella bongori NCTC 12419
+220341.7,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+224915.9,Buchnera aphidicola str. Bp (Baizongia pistaciae)
+229193.14,Yersinia pestis biovar Microtus str. 91001
+243233.7,Methylococcus capsulatus str. Bath
+243265.5,Photorhabdus luminescens subsp. laumondii TTO1
+243277.26,Vibrio cholerae O1 biovar El Tor str. N16961
+246195.4,Dichelobacter nodosus VCS1703A
+261317.3,Buchnera aphidicola (Cinara tujafilina)
+272620.9,Klebsiella pneumoniae subsp. pneumoniae MGH 78578
+272843.6,Pasteurella multocida subsp. multocida str. Pm70
+273123.10,Yersinia pseudotuberculosis IP 32953
+290338.8,Citrobacter koseri ATCC BAA-895
+290339.8,Cronobacter sakazakii ATCC BAA-894
+291112.3,Photorhabdus asymbiotica strain ATCC 43949
+291272.6,Candidatus Blochmannia pennsylvanicus str. BPEN
+295319.15,Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150
+297245.6,Legionella pneumophila str. Lens
+300267.13,Shigella dysenteriae Sd197
+300268.11,Shigella boydii Sb227
+300269.12,Shigella sonnei Ss046
+316385.7,Escherichia coli str. K-12 substr. DH10B
+316401.27,Escherichia coli ETEC H10407
+316407.9,Escherichia coli str. K-12 substr. W3110
+321314.9,Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67
+323261.6,Nitrosococcus oceani ATCC 19707
+331111.12,Escherichia coli E24377A
+340184.27,Escherichia coli B7A
+340185.4,Escherichia coli E22
+340186.5,Escherichia coli E110019
+340197.5,Escherichia coli F11
+343509.12,Sodalis glossinidius str. 'morsitans'
+344601.10,Escherichia coli B171
+344609.11,Shigella boydii CDC 3083-94
+344610.7,Escherichia coli 53638
+349746.12,Yersinia pestis Angola
+349747.9,Yersinia pseudotuberculosis IP 31758
+349965.6,Yersinia intermedia ATCC 29909
+349966.5,Yersinia frederiksenii ATCC 33641
+349967.4,Yersinia mollaretii ATCC 43969
+349968.5,Yersinia bercovieri ATCC 43970
+358708.5,Shigella dysenteriae 1012
+358709.5,Escherichia coli 101-1
+362663.9,Escherichia coli 536
+364106.8,Escherichia coli UTI89
+36870.6,Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis
+372461.17,Buchnera aphidicola BCc
+373384.11,Shigella flexneri 5 str. 8401
+373665.6,Yersinia pestis biovar Orientalis str. IP275
+375450.5,Yersinia pestis FV-1
+377628.10,Yersinia pestis Nepal516
+377628.11,Yersinia pestis Nepal516 [WGS]
+382245.13,Aeromonas salmonicida subsp. salmonicida A449
+386585.9,Escherichia coli O157:H7 str. Sakai
+386656.9,Yersinia pestis Pestoides F
+393305.7,Yersinia enterocolitica subsp. enterocolitica 8081
+399741.7,Serratia proteamaculans 568
+399742.10,Enterobacter sp. 638
+400668.8,Marinomonas sp. MWYL1
+404214.5,Yersinia pestis biovar Orientalis str. F1991016
+404215.6,Yersinia pestis biovar Antiqua str. B42003004
+404216.5,Yersinia pestis biovar Mediaevalis str. K1973002
+404217.5,Yersinia pestis biovar Orientalis str. MG05-1020
+404218.5,Yersinia pestis biovar Antiqua str. UG05-0454
+405955.13,Escherichia coli APEC O1
+406817.27,Xenorhabdus nematophila ATCC 19061
+406818.4,Xenorhabdus bovienii SS-2004
+409438.11,Escherichia coli SE11
+412420.6,Yersinia pestis CA88-4125
+413997.3,Escherichia coli B str. REL606
+41514.7,Salmonella enterica subsp. arizonae serovar 62:z4,z23:- strain RSK2980
+423368.8,Salmonella enterica subsp. enterica serovar Newport str. SL254
+431946.3,Escherichia coli SE15
+439842.10,Salmonella enterica subsp. enterica serovar Kentucky str. CVM29188
+439843.8,Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633
+439846.4,Salmonella enterica subsp. enterica serovar Saintpaul str. SARA23
+439851.8,Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853
+439855.10,Escherichia coli SMS-3-5
+440534.5,Salmonella enterica subsp. enterica serovar 4,[5],12:i:- str. CVM23701
+444447.5,Escherichia coli O157:H7 str. EC4206
+444448.5,Escherichia coli O157:H7 str. EC4045
+444449.5,Escherichia coli O157:H7 str. EC4042
+444450.8,Escherichia coli O157:H7 str. EC4115
+444451.5,Escherichia coli O157:H7 str. EC4196
+444452.5,Escherichia coli O157:H7 str. EC4113
+444453.5,Escherichia coli O157:H7 str. EC4076
+444454.5,Escherichia coli O157:H7 str. EC4024
+454164.6,Salmonella enterica subsp. enterica serovar Heidelberg str. SL486
+454165.5,Salmonella enterica subsp. enterica serovar Schwarzengrund str. SL480
+454166.8,Salmonella enterica subsp. enterica serovar Agona str. SL483
+454167.5,Salmonella enterica subsp. enterica serovar Javiana str. GA_MM04042433
+454168.5,Salmonella enterica subsp. enterica serovar Newport str. SL317
+454169.8,Salmonella enterica subsp. enterica serovar Heidelberg str. SL476
+454231.5,Salmonella enterica subsp. enterica serovar Kentucky str. CDC 191
+457400.3,Escherichia sp. 1_1_43
+457401.3,Escherichia sp. 4_1_40B
+465516.5,Salmonella enterica subsp. enterica serovar Hadar str. RI_05P066
+465517.10,Salmonella enterica subsp. enterica serovar Virchow str. SL491
+465518.5,Salmonella enterica subsp. enterica serovar Weltevreden str. HI_N05-537
+465817.9,Erwinia tasmaniensis Et1/99
+469008.4,Escherichia coli 'BL21-Gold(DE3)pLysS AG'
+469595.3,Citrobacter sp. 30_2
+469598.5,Escherichia sp. 3_2_53FAA
+469608.3,Klebsiella sp. 1_1_55
+469613.3,Enterobacteriaceae bacterium 9_2_54FAA
+471874.6,Providencia stuartii ATCC 25827
+471881.3,Proteus penneri ATCC 35198
+476213.4,Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594
+478004.5,Escherichia coli O157:H7 str. EC4401
+478005.5,Escherichia coli O157:H7 str. EC4486
+478006.5,Escherichia coli O157:H7 str. EC4501
+478007.5,Escherichia coli O157:H7 str. EC508
+478008.5,Escherichia coli O157:H7 str. EC869
+481805.6,Escherichia coli ATCC 8739
+496064.4,Salmonella enterica subsp. enterica serovar Typhi str. E98-3139
+497974.4,Salmonella enterica subsp. enterica serovar Typhi str. E02-1180
+498217.4,Edwardsiella tarda EIB202
+500637.6,Providencia rustigianii DSM 4541
+500638.3,Edwardsiella tarda ATCC 23685
+500639.8,Enterobacter cancerogenus ATCC 35316
+500640.5,Citrobacter youngae ATCC 29220
+502346.5,Escherichia coli O157:H7 str. TW14588
+502347.3,Escherichia albertii TW07627
+502800.6,Yersinia pseudotuberculosis YPIII
+502801.6,Yersinia pseudotuberculosis PB1/+
+507522.6,Klebsiella pneumoniae 342
+511145.12,Escherichia coli str. K-12 substr. MG1655
+515618.4,Candidatus Riesia pediculicola USDA
+517433.4,Pantoea sp. aB
+520999.6,Providencia alcalifaciens DSM 30120
+521000.6,Providencia rettgeri DSM 1131
+523831.5,Salmonella enterica subsp. houtenae str. ATCC BAA-1581
+525281.3,Escherichia coli 83972
+525369.4,Proteus mirabilis ATCC 29906
+527002.3,Yersinia aldovae ATCC 35236
+527004.3,Yersinia rohdei ATCC 43380
+527005.3,Yersinia ruckeri ATCC 29473
+527012.3,Yersinia kristensenii ATCC 33638
+529507.6,Proteus mirabilis HI4320
+544404.4,Escherichia coli O157:H7 str. TW14359
+545431.3,Yersinia pestis Pestoides A
+547046.3,Yersinia pestis biovar Orientalis str. PEXU2
+547047.3,Yersinia pestis biovar Orientalis str. India 195
+547048.4,Yersinia pestis biovar Medievalis str. Harbin 35
+550537.5,Salmonella enterica subsp. enterica serovar Enteritidis str. P125109
+550538.5,Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91
+550672.3,Escherichia coli B088
+550674.3,Escherichia coli B093
+550676.3,Escherichia coli B185
+550682.3,Escherichia coli B799
+550685.3,Escherichia coli E101
+550687.3,Escherichia coli E482
+550694.3,Escherichia fergusonii B253
+554290.9,Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601
+556266.3,Shigella sp. D9
+558270.8,Pectobacterium carotovorum subsp. carotovorum WPP14
+561229.3,Dickeya zeae Ech1591
+561230.3,Pectobacterium carotovorum subsp. carotovorum PC1
+561231.5,Pectobacterium wasabiae WPP163
+561501.4,Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)
+562.6988,Escherichia coli strain W25K
+562.7386,Escherichia coli strain DH1Ec095
+562.7846,Escherichia coli strain RU1 MA6
+562.8502,Escherichia coli strain AZ75
+562.9075,Escherichia coli strain HS115
+563178.4,Buchnera aphidicola str. 5A (Acyrthosiphon pisum)
+568708.3,Salmonella enterica subsp. enterica serovar Typhimurium str. D23580
+568817.3,Serratia symbiotica str. 'Cinara cedri'
+570506.3,Escherichia coli O157:H7 str. FRIK966
+572265.5,Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+573395.3,Salmonella enterica subsp. enterica serovar Tennessee str. CDC07-0191
+579405.3,Dickeya dadantii Ech703
+585034.5,Escherichia coli IAI1
+585035.6,Escherichia coli S88
+585054.5,Escherichia fergusonii ATCC 35469
+585055.8,Escherichia coli 55989
+585056.7,Escherichia coli UMN026
+585057.6,Escherichia coli IAI39
+585395.4,Escherichia coli O103:H2 str. 12009
+585396.4,Escherichia coli O111:H- str. 11128
+585397.9,Escherichia coli ED1a
+588858.6,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+590409.4,Dickeya dadantii Ech586
+591020.3,Shigella flexneri 2002017
+591946.4,Escherichia coli LF82
+592316.4,Pantoea sp. At-9b
+593105.3,Pantoea sp. Sc1
+593275.3,Buchnera aphidicola str. LSR1 (Acyrthosiphon pisum)
+595496.3,Escherichia coli BW2952
+596155.6,Salmonella enterica subsp. enterica serovar Infantis str. SARB27
+598467.3,Brenneria sp. EniD312
+630626.3,Shimwellia blattae DSM 4481 = NBRC 105725
+634499.3,Erwinia pyrifoliae Ep1/96
+634500.5,Erwinia billingiae Eb661
+634503.3,Edwardsiella ictaluri 93-146
+637382.3,Yersinia pestis D106004
+637385.3,Yersinia pestis D182038
+637386.3,Yersinia pestis Z176003
+637388.3,Escherichia coli O157:H7 str. FRIK2000
+637910.3,Citrobacter rodentium ICC168
+637912.3,Escherichia coli OP50
+640131.3,Klebsiella variicola At-22
+640513.3,Enterobacter asburiae LF7a
+644651.3,Erwinia pyrifoliae DSM 12163
+655817.3,Escherichia coli ABU 83972
+656372.3,Escherichia coli E1167
+656374.3,Escherichia coli E1520
+656379.3,Escherichia coli FVEC1302
+656380.3,Escherichia coli FVEC1412
+656383.3,Escherichia coli H120
+656388.3,Escherichia coli H252
+656390.3,Escherichia coli H263
+656393.3,Escherichia coli H299
+656398.3,Escherichia coli H397
+656404.3,Escherichia coli H489
+656405.3,Escherichia coli H494
+656408.3,Escherichia coli H591
+656413.3,Escherichia coli H730
+656414.3,Escherichia coli H736
+656417.3,Escherichia coli M605
+656419.3,Escherichia coli M718
+656420.3,Escherichia coli M863
+656421.3,Escherichia coli M919
+656429.3,Escherichia coli TA007
+656435.3,Escherichia coli TA124
+656437.3,Escherichia coli TA143
+656440.3,Escherichia coli TA206
+656443.3,Escherichia coli TA271
+656444.3,Escherichia coli TA280
+656449.3,Escherichia coli TW10509
+660596.6,Pantoea stewartii subsp. stewartii DC283
+663321.4,Candidatus Regiella insecticola LSR1
+665029.3,Erwinia amylovora CFBP1430
+665944.3,Klebsiella sp. 4_1_44FAA
+667120.5,Edwardsiella tarda 080813
+667121.5,Edwardsiella tarda ATCC 15947
+667127.3,Klebsiella pneumoniae subsp. rhinoscleromatis ATCC 13884
+667129.3,Serratia odorifera DSM 4582
+670484.3,Citrobacter freundii str. ballerup 7851/39
+670888.3,Escherichia coli 1827-70
+670890.3,Escherichia coli LT-68
+670892.3,Escherichia coli 3431
+670893.4,Escherichia coli EPECa14
+670894.3,Escherichia coli E128010
+670896.3,Escherichia coli EPECa12
+670897.3,Escherichia coli 2362-75
+670899.3,Escherichia coli RN587/1
+670903.3,Escherichia coli TX1999
+679202.3,Escherichia coli MS 85-1
+679204.3,Escherichia coli MS 145-7
+679205.4,Escherichia coli MS 124-1
+679206.4,Escherichia coli MS 119-7
+679207.4,Escherichia coli MS 107-1
+682634.4,Serratia plymuthica 4Rx13
+685038.3,Escherichia coli O83:H1 str. NRG 857C
+687916.3,Yersinia pestis KIM D27
+696406.3,Escherichia coli UMNK88
+697871.4,Pantoea sp. SL1_M5
+701177.3,Escherichia coli O55:H7 str. CB9615
+701347.4,Enterobacter lignolyticus SCF1
+702430.3,Escherichia coli O157:H7 str. EC4009
+702431.3,Escherichia coli O157:H7 str. EC4192
+702432.3,Escherichia coli O157:H7 str. EC4084
+702433.3,Escherichia coli O157:H7 str. EC4127
+702434.4,Escherichia coli O157:H7 str. EC4191
+702435.3,Escherichia coli O157:H7 str. EC4205
+702436.3,Escherichia coli O157:H7 str. EC536
+712898.16,Pantoea vagans C9-1
+713600.3,Buchnera aphidicola str. JF98 (Acyrthosiphon pisum)
+713601.3,Buchnera aphidicola str. JF99 (Acyrthosiphon pisum)
+713602.3,Buchnera aphidicola str. TLW03 (Acyrthosiphon pisum)
+713603.3,Buchnera aphidicola str. LL01 (Acyrthosiphon pisum)
+714962.3,Escherichia coli IHE3034
+716540.3,Erwinia amylovora ATCC 49946
+718251.5,Edwardsiella tarda FL6-60
+718254.4,Enterobacter cloacae subsp. cloacae NCTC 9394
+718274.8,Salmonella enterica subsp. enterica serovar Typhimurium str. T000240
+741091.4,Rahnella sp. Y9602
+741093.3,Escherichia coli Xuzhou21
+742730.3,Citrobacter freundii 4_7_47CFAA
+745015.3,Salmonella enterica subsp. enterica serovar Montevideo str. 315996572
+745017.4,Salmonella enterica subsp. enterica serovar Montevideo str. 495297-1
+745018.3,Salmonella enterica subsp. enterica serovar Montevideo str. 495297-3
+745019.4,Salmonella enterica subsp. enterica serovar Montevideo str. 495297-4
+745020.4,Salmonella enterica subsp. enterica serovar Montevideo str. 515920-1
+745021.4,Salmonella enterica subsp. enterica serovar Montevideo str. 515920-2
+745022.3,Salmonella enterica subsp. enterica serovar Montevideo str. 531954
+745277.3,Rahnella aquatilis CIP 78.65 = ATCC 33071
+749527.3,Escherichia coli MS 21-1
+749528.3,Escherichia coli MS 45-1
+749529.3,Escherichia coli MS 57-2
+749530.3,Escherichia coli MS 60-1
+749531.3,Escherichia coli MS 69-1
+749532.3,Escherichia coli MS 78-1
+749533.3,Escherichia coli MS 84-1
+749535.4,Klebsiella sp. MS 92-3
+749536.3,Escherichia coli MS 110-3
+749537.3,Escherichia coli MS 115-1
+749538.3,Escherichia coli MS 116-1
+749539.3,Escherichia coli MS 117-3
+749540.3,Escherichia coli MS 146-1
+749541.3,Escherichia coli MS 153-1
+749542.3,Escherichia coli MS 16-3
+749544.3,Escherichia coli MS 175-1
+749545.3,Escherichia coli MS 182-1
+749546.3,Escherichia coli MS 185-1
+749547.3,Escherichia coli MS 187-1
+749548.3,Escherichia coli MS 196-1
+749549.3,Escherichia coli MS 198-1
+749550.3,Escherichia coli MS 200-1
+749947.3,Salmonella enterica subsp. enterica serovar Montevideo str. SARB30
+749948.3,Salmonella enterica subsp. enterica serovar Montevideo str. LQC 10
+749949.3,Salmonella enterica subsp. enterica serovar Montevideo str. NC_MB110209-0054
+749950.3,Salmonella enterica subsp. enterica serovar Montevideo str. OH_2009072675
+749951.3,Salmonella enterica subsp. enterica serovar Montevideo str. CASC_09SCPH15965
+749952.3,Salmonella enterica subsp. enterica serovar Montevideo str. SARB31
+749953.3,Salmonella enterica subsp. enterica serovar Montevideo str. ATCC BAA710
+752783.3,Escherichia coli KD1
+752784.3,Escherichia coli KD2
+752785.3,Escherichia coli 541-15
+752786.3,Escherichia coli 541-1
+752787.3,Escherichia coli 576-1
+752789.3,Escherichia coli HM605
+752790.3,Escherichia coli CUMT8
+753642.3,Escherichia coli NC101
+754077.4,Shigella sonnei str. Moseley
+754078.3,Escherichia coli G58-1
+754079.3,Escherichia coli 2534-86
+754080.3,Escherichia coli 3030-1
+754081.3,Escherichia coli STEC_O31
+754082.3,Escherichia coli STEC_7v
+754083.3,Escherichia coli STEC_94C
+754084.3,Escherichia coli STEC_B2F1
+754085.3,Escherichia coli STEC_C165-02
+754086.3,Escherichia coli STEC_DG131-3
+754087.3,Escherichia coli STEC_EH250
+754088.3,Escherichia coli STEC_H.1.8
+754089.3,Escherichia coli STEC_MHI813
+754090.3,Escherichia coli STEC_S1191
+754091.3,Shigella flexneri CCH060
+754092.3,Shigella flexneri J1713
+754093.4,Shigella dysenteriae 1617
+754327.3,Escherichia sp. TW09231
+754330.3,Escherichia sp. TW09276
+754331.3,Escherichia sp. TW09308
+754332.3,Escherichia sp. TW10509
+754333.3,Escherichia albertii TW11588
+763919.3,Salmonella enterica subsp. enterica serovar Montevideo str. 19N
+763920.3,Salmonella enterica subsp. enterica serovar Montevideo str. 29N
+763921.3,Salmonella enterica subsp. enterica serovar Montevideo str. 42N
+763922.3,Salmonella enterica subsp. enterica serovar Montevideo str. 80959-06
+766138.3,Shigella boydii 965-58
+766139.3,Shigella boydii 3594-74
+766140.3,Shigella boydii 4444-74
+766141.3,Shigella boydii 5216-82
+766142.3,Shigella dysenteriae 155-74
+766143.3,Shigella dysenteriae 225-75
+766145.3,Shigella flexneri VA-6
+766146.3,Shigella flexneri K-218
+766147.3,Shigella flexneri K-227
+766148.3,Shigella flexneri K-272
+766149.3,Shigella flexneri K-304
+766150.3,Shigella flexneri K-315
+766151.3,Shigella flexneri K-404
+766152.3,Shigella flexneri K-671
+766153.3,Shigella flexneri K-1770
+766154.3,Shigella flexneri 1235-66
+766155.3,Shigella flexneri 1485-80
+766157.3,Shigella flexneri 2747-71
+766158.3,Shigella flexneri 2850-71
+766159.3,Shigella flexneri 2930-71
+766160.3,Shigella flexneri 4343-70
+766161.3,Shigella flexneri 6603-63
+766162.3,Shigella sonnei 3226-85
+766163.3,Shigella sonnei 3233-85
+766164.3,Shigella sonnei 4822-66
+766166.3,Escherichia coli EPEC C342-62
+766761.3,Salmonella enterica subsp. enterica serovar Montevideo str. 4441 H
+766762.3,Salmonella enterica subsp. enterica serovar Montevideo str. 81038-01
+768490.3,Serratia sp. AS12
+768492.3,Serratia plymuthica AS9
+768493.3,Serratia sp. AS13
+789332.3,Salmonella enterica subsp. enterica serovar Montevideo str. MD_MDA09249507
+789642.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 35185
+789643.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 35199
+789644.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 21539
+789645.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 33953
+789646.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 35188
+789647.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 21559
+796392.4,Escherichia coli MS 79-10
+796730.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 22425
+796731.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 21538
+796732.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 22513
+796733.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 21550
+796734.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 35202
+796735.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19567
+796736.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19449
+796737.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19447
+858305.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 22462
+858306.3,Salmonella enterica subsp. enterica serovar Newport str. CVM N18486
+858307.3,Salmonella enterica subsp. enterica serovar Newport str. CVM N1543
+858308.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 21554
+858309.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19443
+858310.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 37978
+858311.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19593
+858312.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19470
+858313.3,Salmonella enterica subsp. enterica serovar Montevideo str. 414877
+858314.3,Salmonella enterica subsp. enterica serovar Montevideo str. 366867
+858315.3,Salmonella enterica subsp. enterica serovar Montevideo str. 413180
+858317.4,Salmonella enterica subsp. enterica serovar Montevideo str. 609458-1
+858318.3,Salmonella enterica subsp. enterica serovar Montevideo str. 556150-1
+859196.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 19536
+859197.3,Salmonella enterica subsp. enterica serovar Newport str. CVM 4176
+859198.4,Salmonella enterica subsp. enterica serovar Montevideo str. 609460
+859199.4,Salmonella enterica subsp. enterica serovar Montevideo str. 507440-20
+859654.3,Candidatus Blochmannia vafer str. BVAF
+868133.3,Escherichia coli DEC1A
+868134.3,Escherichia coli DEC1B
+868135.3,Escherichia coli DEC1C
+868136.3,Escherichia coli DEC1D
+868137.3,Escherichia coli DEC1E
+868138.3,Escherichia coli DEC2A
+868139.3,Escherichia coli DEC2B
+868140.3,Escherichia coli DEC2C
+868141.3,Escherichia coli DEC2D
+868142.3,Escherichia coli DEC2E
+868143.3,Escherichia coli DEC3A
+868144.3,Escherichia coli DEC3B
+868145.3,Escherichia coli DEC3C
+868146.3,Escherichia coli DEC3D
+868147.3,Escherichia coli DEC3E
+868148.3,Escherichia coli DEC3F
+868149.3,Escherichia coli DEC4A
+868150.3,Escherichia coli DEC4B
+868151.3,Escherichia coli DEC4C
+868152.3,Escherichia coli DEC4D
+868153.3,Escherichia coli DEC4E
+868154.3,Escherichia coli DEC4F
+868155.3,Escherichia coli DEC5A
+868156.3,Escherichia coli DEC5B
+868157.3,Escherichia coli DEC5C
+868158.3,Escherichia coli DEC5D
+868159.3,Escherichia coli DEC5E
+868160.3,Escherichia coli DEC6A
+868161.3,Escherichia coli DEC6B
+868162.3,Escherichia coli DEC6C
+868163.3,Escherichia coli DEC6D
+868164.3,Escherichia coli DEC6E
+868165.3,Escherichia coli DEC7A
+868166.3,Escherichia coli DEC7B
+868167.3,Escherichia coli DEC7C
+868168.3,Escherichia coli DEC7D
+868169.3,Escherichia coli DEC7E
+868170.3,Escherichia coli DEC8A
+868171.3,Escherichia coli DEC8B
+868172.3,Escherichia coli DEC8C
+868173.3,Escherichia coli DEC8D
+868174.3,Escherichia coli DEC8E
+868175.3,Escherichia coli DEC9A
+868176.3,Escherichia coli DEC9B
+868177.3,Escherichia coli DEC9C
+868178.3,Escherichia coli DEC9D
+868179.3,Escherichia coli DEC9E
+868180.3,Escherichia coli DEC10A
+868181.3,Escherichia coli DEC10B
+868182.3,Escherichia coli DEC10C
+868183.3,Escherichia coli DEC10D
+868184.3,Escherichia coli DEC10E
+868185.3,Escherichia coli DEC10F
+868186.3,Escherichia coli DEC11A
+868187.3,Escherichia coli DEC11B
+868188.3,Escherichia coli DEC11C
+868189.3,Escherichia coli DEC11D
+868190.3,Escherichia coli DEC11E
+868191.3,Escherichia coli DEC12A
+868192.3,Escherichia coli DEC12B
+868193.3,Escherichia coli DEC12C
+868194.3,Escherichia coli DEC12D
+868195.3,Escherichia coli DEC12E
+868196.3,Escherichia coli DEC13A
+868197.3,Escherichia coli DEC13B
+868198.3,Escherichia coli DEC13C
+868199.3,Escherichia coli DEC13D
+868200.3,Escherichia coli DEC13E
+868201.3,Escherichia coli DEC14A
+868202.3,Escherichia coli DEC14B
+868203.3,Escherichia coli DEC14C
+868204.3,Escherichia coli DEC14D
+868206.3,Escherichia coli DEC15A
+868207.3,Escherichia coli DEC15B
+868208.3,Escherichia coli DEC15C
+868209.3,Escherichia coli DEC15D
+868210.3,Escherichia coli DEC15E
+869669.4,Escherichia coli 1.2741
+869670.4,Escherichia coli 97.0246
+869671.4,Escherichia coli 5.0588
+869672.4,Escherichia coli 97.0259
+869673.3,Escherichia coli H30
+869674.3,Escherichia coli 95.0941
+869675.4,Escherichia coli 1.2264
+869676.4,Escherichia coli 97.0264
+869677.4,Escherichia coli 96.0497
+869678.4,Escherichia coli 99.0741
+869679.4,Escherichia coli 3.2608
+869680.4,Escherichia coli 93.0624
+869681.4,Escherichia coli 4.0522
+869682.4,Escherichia coli JB1-95
+869683.4,Escherichia coli 96.154
+869684.5,Escherichia coli 5.0959
+869685.3,Escherichia coli 9.1649
+869686.4,Escherichia coli 9.0111
+869687.5,Escherichia coli 4.0967
+869688.5,Escherichia coli 2.3916
+869689.4,Escherichia coli 3.3884
+869690.4,Escherichia coli 2.4168
+869691.4,Escherichia coli 3.2303
+869693.5,Escherichia coli TW07793
+869694.4,Escherichia coli B41
+869695.4,Escherichia coli 900105 (10e)
+869729.3,Escherichia coli UM146
+871586.3,Salmonella enterica subsp. enterica serovar Montevideo str. 556152
+871587.3,Salmonella enterica subsp. enterica serovar Montevideo str. MB101509-0077
+871588.3,Salmonella enterica subsp. enterica serovar Montevideo str. MB102109-0047
+871589.3,Salmonella enterica subsp. enterica serovar Montevideo str. MB110209-0055
+871590.3,Salmonella enterica subsp. enterica serovar Montevideo str. MB111609-0052
+871591.3,Salmonella enterica subsp. enterica serovar Montevideo str. 2009083312
+871592.3,Salmonella enterica subsp. enterica serovar Montevideo str. 2009085258
+871593.3,Salmonella enterica subsp. enterica serovar Montevideo str. 315731156
+879462.4,Escherichia coli str. K-12 substr. MG1655star
+882860.3,Salmonella enterica subsp. enterica serovar Montevideo str. CT_02035321
+882862.3,Salmonella enterica subsp. enterica serovar Montevideo str. CT_02035327
+882863.4,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2009159199
+882864.4,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008282
+882865.3,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008283
+882866.3,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008284
+882867.3,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008285
+882868.3,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008286
+882869.3,Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008287
+883117.3,Klebsiella oxytoca 10-5242
+883118.3,Klebsiella oxytoca 10-5243
+883120.3,Klebsiella oxytoca 10-5245
+883121.3,Klebsiella oxytoca 10-5246
+883123.3,Klebsiella oxytoca 10-5248
+883125.3,Klebsiella oxytoca 10-5250
+885275.3,Escherichia coli str. 'clone D i14'
+885276.3,Escherichia coli str. 'clone D i2'
+887064.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 622731-39
+887065.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 639016-6
+887066.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 640631
+888063.3,Enterobacter hormaechei ATCC 49162
+891411.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 77-0424
+891413.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 607307-6
+903503.4,Candidatus Moranella endobia PCIT
+904139.4,Salmonella enterica subsp. enterica serovar Choleraesuis str. SCSA50
+909209.3,Escherichia albertii TW08933
+909945.3,Salmonella enterica subsp. enterica serovar Dublin str. SD3246
+909947.3,Salmonella enterica subsp. enterica serovar Gallinarum str. SG9
+910238.3,Escherichia albertii TW15818
+910348.4,Escherichia coli P12b
+910413.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 485549-17
+910414.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 596866-22
+910415.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 596866-70
+910416.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 629164-26
+910417.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 629164-37
+910418.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 639672-46
+910419.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 639672-50
+913063.3,Salmonella enterica subsp. enterica serovar Adelaide str. A4-669
+913069.3,Salmonella enterica subsp. enterica serovar Baildon str. R6-199
+913071.3,Salmonella enterica subsp. enterica serovar Gaminara str. A4-567
+913072.3,Salmonella enterica subsp. enterica serovar Give str. S5-487
+913073.3,Salmonella enterica subsp. enterica serovar Hvittingfoss str. A4-620
+913075.3,Salmonella enterica subsp. enterica serovar Inverness str. R8-3668
+913077.3,Salmonella enterica subsp. enterica serovar Johannesburg str. S5-703
+913078.3,Salmonella enterica subsp. enterica serovar Minnesota str. A4-603
+913080.3,Salmonella enterica subsp. enterica serovar Mississippi str. A4-633
+913081.3,Salmonella enterica subsp. enterica serovar Rubislaw str. A4-653
+913082.3,Salmonella enterica subsp. enterica serovar Senftenberg str. A4-543
+913083.3,Salmonella enterica subsp. enterica serovar Uganda str. R8-3404
+913084.3,Salmonella enterica subsp. enterica serovar Urbana str. R8-2977
+913086.3,Salmonella enterica subsp. enterica serovar Wandsworth str. A4-580
+913087.3,Escherichia coli TW14425
+913088.3,Escherichia coli TW11681
+913089.3,Escherichia coli TW10828
+913090.3,Escherichia coli TW10722
+913091.3,Escherichia coli TW10598
+913241.3,Salmonella enterica subsp. enterica serovar Alachua str. R6-377
+913242.3,Salmonella enterica subsp. enterica serovar Montevideo str. S5-403
+914128.3,Serratia symbiotica str. Tucson
+926026.3,Escherichia coli O157:H7 str. G5101
+926027.3,Escherichia coli O157:H- str. 493-89
+926028.3,Escherichia coli O157:H- str. H 2687
+926029.3,Escherichia coli O55:H7 str. 3256-97
+926030.3,Escherichia coli O55:H7 str. USDA 5905
+926032.3,Escherichia coli O157:H7 str. LSU-61
+926034.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 77-1427
+926035.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 77-2659
+926036.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 78-1757
+926037.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 22510-1
+930769.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 8b-1
+930778.3,Salmonella enterica subsp. enterica serovar Newport str. Levine 1
+930779.3,Salmonella enterica subsp. enterica serovar Newport str. Levine 15
+930780.3,Cronobacter sakazakii E899
+930944.6,Yersinia enterocolitica subsp. palearctica Y11
+932213.3,Serratia sp. M24T3
+932676.3,Shigella boydii ATCC 9905
+932677.3,Pantoea ananatis AJ13355
+936157.3,Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+936565.3,Klebsiella sp. OBRC7
+940287.3,Yersinia enterocolitica subsp. palearctica 556/8265
+940288.3,Yersinia enterocolitica subsp. palearctica 647/5307
+940289.3,Yersinia enterocolitica subsp. palearctica YO527
+941188.3,Salmonella enterica subsp. enterica serovar Pomona str. ATCC 10729
+941322.6,Escherichia coli O25b:H4-ST131 str. EC958
+941429.3,Shigella dysenteriae CDC 74-1112
+941435.3,Escherichia coli O157:H7 str. EC1212
+945360.3,Shigella flexneri CDC 796-83
+945433.3,Escherichia coli WV_060327
+945434.3,Escherichia coli EC4100B
+946034.3,Salmonella enterica subsp. enterica serovar Typhimurium str. TN061786
+947557.3,Yersinia enterocolitica NFO
+947561.3,Yersinia enterocolitica IP2222
+980518.3,Enterobacter mori LMG 25706
+981367.3,Escherichia fergusonii ECD227
+984228.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 648905 5-18
+984230.3,Salmonella enterica subsp. enterica serovar Enteritidis str. 648901 6-18
+984240.3,Salmonella enterica subsp. enterica serovar Montevideo str. CT_02035278
+984241.3,Salmonella enterica subsp. enterica serovar Montevideo str. CT_02035318
+984242.3,Salmonella enterica subsp. enterica serovar Montevideo str. CT_02035320
+990282.4,Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1
+992127.3,Yersinia pestis PY-01
+992128.3,Yersinia pestis PY-02
+992129.3,Yersinia pestis PY-03
+992130.3,Yersinia pestis PY-04
+992131.3,Yersinia pestis PY-05
+992132.3,Yersinia pestis PY-06
+992133.3,Yersinia pestis PY-07
+992134.3,Yersinia pestis PY-08
+992135.3,Yersinia pestis PY-09
+992136.3,Yersinia pestis PY-10
+992137.3,Yersinia pestis PY-11
+992138.3,Yersinia pestis PY-12
+992139.3,Yersinia pestis PY-13
+992140.3,Yersinia pestis PY-14
+992141.3,Yersinia pestis PY-15
+992142.3,Yersinia pestis PY-16
+992143.3,Yersinia pestis PY-19
+992144.3,Yersinia pestis PY-25
+992145.3,Yersinia pestis PY-29
+992146.3,Yersinia pestis PY-32
+992147.3,Yersinia pestis PY-34
+992148.3,Yersinia pestis PY-36
+992149.3,Yersinia pestis PY-42
+992150.3,Yersinia pestis PY-45
+992151.3,Yersinia pestis PY-46
+992152.3,Yersinia pestis PY-47
+992153.3,Yersinia pestis PY-48
+992154.3,Yersinia pestis PY-52
+992155.3,Yersinia pestis PY-53
+992156.3,Yersinia pestis PY-54
+992157.3,Yersinia pestis PY-55
+992158.3,Yersinia pestis PY-56
+992159.3,Yersinia pestis PY-58
+992160.3,Yersinia pestis PY-59
+992161.3,Yersinia pestis PY-60
+992162.3,Yersinia pestis PY-61
+992163.3,Yersinia pestis PY-63
+992164.3,Yersinia pestis PY-64
+992165.3,Yersinia pestis PY-65
+992166.3,Yersinia pestis PY-66
+992167.3,Yersinia pestis PY-71
+992168.3,Yersinia pestis PY-72
+992169.3,Yersinia pestis PY-76
+992170.3,Yersinia pestis PY-88
+992171.3,Yersinia pestis PY-89
+992172.3,Yersinia pestis PY-90
+992173.3,Yersinia pestis PY-91
+992174.3,Yersinia pestis PY-92
+992175.3,Yersinia pestis PY-93
+992176.3,Yersinia pestis PY-94
+992177.3,Yersinia pestis PY-95
+992178.3,Yersinia pestis PY-96
+992179.3,Yersinia pestis PY-98
+992180.3,Yersinia pestis PY-99
+992181.3,Yersinia pestis PY-100
+992182.3,Yersinia pestis PY-101
+992183.3,Yersinia pestis PY-102
+992184.3,Yersinia pestis PY-103
+992185.3,Yersinia pestis PY-113
+99287.12,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+993513.3,Escherichia coli cloneA_i1
+994476.3,Yersinia enterocolitica subsp. palearctica 105.5R(r)
+997824.3,Escherichia coli O157:H7 str. 1044
+997825.3,Escherichia coli O157:H7 str. 1125
